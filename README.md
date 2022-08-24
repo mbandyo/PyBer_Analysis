@@ -11,3 +11,7 @@ Data was first combined into a single comprehensive dataset. Following sample sn
 Summary of total rides, drivers and fares by city types were calculated. The results are as follows:
 ##### Total Rides &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Total Drivers &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Total Fares</br>
 ![Total Rides by Type](https://github.com/mbandyo/PyBer_Analysis/blob/main/Resources/Total%20Ride%20Summary.png) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Total Drivers by Type](https://github.com/mbandyo/PyBer_Analysis/blob/main/Resources/Total%20Driver%20Summary.png) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Total Fare by Type](https://github.com/mbandyo/PyBer_Analysis/blob/main/Resources/Total%20Fare%20Summary.png) </br>   
+Summary of average fare per ride and average fare per driver are as follows:
+##### Average Fare per Ride &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Average Fare per Driver
+![Average Fare per Ride](https://github.com/mbandyo/PyBer_Analysis/blob/main/Resources/Average%20Fare%20per%20Ride%20Summary.png) &emsp;&emsp;&emsp;&emsp;![Average Fare per Driver](https://github.com/mbandyo/PyBer_Analysis/blob/main/Resources/Average%20Fare%20per%20Driver%20Summary.png)</br>
+The following table consolidates summary data above:
